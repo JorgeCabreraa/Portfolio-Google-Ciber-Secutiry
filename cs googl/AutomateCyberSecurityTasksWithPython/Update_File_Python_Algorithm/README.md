@@ -1,0 +1,1 @@
+<img width="1650" height="1275" alt="CertificadoAutomatiza las tareas de ciberseguridad con Python 7_page-0001" src="https://github.com/user-attachments/assets/cf1e5871-a117-4dc7-9852-48be16e40703" />
